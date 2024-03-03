@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cESUdtEUdlhcebcEB8mBshnt+s8YWIOUT3ohvwDM/XHZqO2ggW3co8A2zLTp8w/1f2vIdKaQ9v6Xx1LNA5ayIw==",
+  "success": true,
+  "projectFilePath": "A:\\Ideationals\\DapperMVCLearning\\DapperMVCLearning.VirusScanner\\DapperMVCLearning.VirusScanner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADITYA\\.nuget\\packages\\nclam\\9.0.0\\nclam.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

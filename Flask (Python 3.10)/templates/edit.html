@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Edit Person</title>
+</head>
+<body>
+    <h1>Edit Person</h1>
+    <form method="POST">
+        <label for="name">Name:</label><br>
+        <input type="text" id="name" name="name" value="{{ person['Name'] }}"><br>
+        <label for="email">Email:</label><br>
+        <input type="email" id="email" name="email" value="{{ person['Email'] }}"><br>
+        <label for="address">Address:</label><br>
+        <textarea id="address" name="address">{{ person['Address'] }}</textarea><br>
+        <button type="submit">Save Changes</button>
+    </form>
+    {% if error %}
+    <p>{{ error }}</p>
+    {% endif %}
+</body>
+</html>

@@ -1,0 +1,12 @@
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.Data\obj\Debug\net8.0\DapperMVCLearning.Data.csproj.AssemblyReference.cache
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.Data\obj\Debug\net8.0\DapperMVCLearning.Data.GeneratedMSBuildEditorConfig.editorconfig
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.Data\obj\Debug\net8.0\DapperMVCLearning.Data.AssemblyInfoInputs.cache
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.Data\obj\Debug\net8.0\DapperMVCLearning.Data.AssemblyInfo.cs
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.Data\obj\Debug\net8.0\DapperMVCLearning.Data.csproj.CoreCompileInputs.cache
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.Data\bin\Debug\net8.0\DapperMVCLearning.Data.deps.json
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.Data\bin\Debug\net8.0\DapperMVCLearning.Data.dll
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.Data\bin\Debug\net8.0\DapperMVCLearning.Data.pdb
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.Data\obj\Debug\net8.0\DapperMVCLearning.Data.dll
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.Data\obj\Debug\net8.0\refint\DapperMVCLearning.Data.dll
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.Data\obj\Debug\net8.0\DapperMVCLearning.Data.pdb
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.Data\obj\Debug\net8.0\ref\DapperMVCLearning.Data.dll

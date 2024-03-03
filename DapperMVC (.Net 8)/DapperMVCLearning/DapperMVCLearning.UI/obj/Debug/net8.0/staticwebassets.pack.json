@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "A:\\Ideationals\\DapperMVCLearning\\DapperMVCLearning.UI\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DapperMVCLearning.UI.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DapperMVCLearning.UI.bundle.scp.css"
+    },
+    {
+      "Id": "A:\\Ideationals\\DapperMVCLearning\\DapperMVCLearning.UI\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DapperMVCLearning.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DapperMVCLearning.UI.props",
+      "PackagePath": "build\\DapperMVCLearning.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DapperMVCLearning.UI.props",
+      "PackagePath": "buildMultiTargeting\\DapperMVCLearning.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DapperMVCLearning.UI.props",
+      "PackagePath": "buildTransitive\\DapperMVCLearning.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

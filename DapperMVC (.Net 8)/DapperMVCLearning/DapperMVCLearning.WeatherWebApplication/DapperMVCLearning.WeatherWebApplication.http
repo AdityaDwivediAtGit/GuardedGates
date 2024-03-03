@@ -1,0 +1,6 @@
+@DapperMVCLearning.WeatherWebApplication_HostAddress = http://localhost:5087
+
+GET {{DapperMVCLearning.WeatherWebApplication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

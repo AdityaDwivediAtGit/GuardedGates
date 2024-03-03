@@ -1,0 +1,35 @@
+﻿@model IEnumerable<DapperMVCLearning.Data.Models.Domain.Person>
+
+@{
+    //Layout = null;
+}
+
+<h3>People List</h3>
+
+<div class="my-2">
+    This content is inside DisplayAll.cshtml
+
+    <a class="btn btn-primary" href="/Person/Add">Add Person</a>
+    <br>
+    <table class="table table-stripped">
+        <thead>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Address</th>
+        </thead>
+        <tbody>
+            @foreach (var person in Model)
+            {
+                <tr>
+                    <td>@person.Name</td>
+                    <td>@person.Email</td>
+                    <td>@person.Address</td>
+                    <td>
+                        <a href="/Person/Edit/?id=@person.Id" class="btn btn-success">Edit</a>
+                        <a href="/Person/Delete/?id=@person.Id" class="btn btn-danger" onclick="return window.confirm('Are you sure about deletion ?')">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

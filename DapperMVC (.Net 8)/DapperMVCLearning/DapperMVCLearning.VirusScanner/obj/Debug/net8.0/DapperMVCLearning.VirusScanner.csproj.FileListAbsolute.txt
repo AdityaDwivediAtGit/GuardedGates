@@ -1,0 +1,12 @@
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.VirusScanner\obj\Debug\net8.0\DapperMVCLearning.VirusScanner.csproj.AssemblyReference.cache
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.VirusScanner\obj\Debug\net8.0\DapperMVCLearning.VirusScanner.GeneratedMSBuildEditorConfig.editorconfig
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.VirusScanner\obj\Debug\net8.0\DapperMVCLearning.VirusScanner.AssemblyInfoInputs.cache
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.VirusScanner\obj\Debug\net8.0\DapperMVCLearning.VirusScanner.AssemblyInfo.cs
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.VirusScanner\obj\Debug\net8.0\DapperMVCLearning.VirusScanner.csproj.CoreCompileInputs.cache
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.VirusScanner\bin\Debug\net8.0\DapperMVCLearning.VirusScanner.deps.json
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.VirusScanner\bin\Debug\net8.0\DapperMVCLearning.VirusScanner.dll
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.VirusScanner\bin\Debug\net8.0\DapperMVCLearning.VirusScanner.pdb
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.VirusScanner\obj\Debug\net8.0\DapperMVCLearning.VirusScanner.dll
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.VirusScanner\obj\Debug\net8.0\refint\DapperMVCLearning.VirusScanner.dll
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.VirusScanner\obj\Debug\net8.0\DapperMVCLearning.VirusScanner.pdb
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.VirusScanner\obj\Debug\net8.0\ref\DapperMVCLearning.VirusScanner.dll

@@ -1,0 +1,12 @@
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.AuthenticationService\bin\Debug\net8.0\DapperMVCLearning.AuthenticationService.deps.json
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.AuthenticationService\bin\Debug\net8.0\DapperMVCLearning.AuthenticationService.dll
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.AuthenticationService\bin\Debug\net8.0\DapperMVCLearning.AuthenticationService.pdb
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.AuthenticationService\obj\Debug\net8.0\DapperMVCLearning.AuthenticationService.csproj.AssemblyReference.cache
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.AuthenticationService\obj\Debug\net8.0\DapperMVCLearning.AuthenticationService.GeneratedMSBuildEditorConfig.editorconfig
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.AuthenticationService\obj\Debug\net8.0\DapperMVCLearning.AuthenticationService.AssemblyInfoInputs.cache
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.AuthenticationService\obj\Debug\net8.0\DapperMVCLearning.AuthenticationService.AssemblyInfo.cs
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.AuthenticationService\obj\Debug\net8.0\DapperMVCLearning.AuthenticationService.csproj.CoreCompileInputs.cache
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.AuthenticationService\obj\Debug\net8.0\DapperMVCLearning.AuthenticationService.dll
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.AuthenticationService\obj\Debug\net8.0\refint\DapperMVCLearning.AuthenticationService.dll
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.AuthenticationService\obj\Debug\net8.0\DapperMVCLearning.AuthenticationService.pdb
+A:\Ideationals\DapperMVCLearning\DapperMVCLearning.AuthenticationService\obj\Debug\net8.0\ref\DapperMVCLearning.AuthenticationService.dll

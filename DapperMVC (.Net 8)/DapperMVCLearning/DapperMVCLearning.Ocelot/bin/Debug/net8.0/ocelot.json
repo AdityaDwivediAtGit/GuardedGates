@@ -1,0 +1,87 @@
+{
+  //"Routes": [
+  //  {
+  //    "DownstreamPathTemplate": "/WeatherForecast",
+  //    "DownstreamScheme": "https",
+  //    "DownstreamHostAndPorts": [
+  //      {
+  //        "Host": "localhost",
+  //        "Port": 7154
+  //      }
+  //    ],
+  //    "UpstreamPathTemplate": "/Weather",
+  //    "UpstreamHttpMethod": [ "Get" ]
+  //  },
+  //  {
+  //    "DownstreamPathTemplate": "/api/Login",
+  //    "DownstreamScheme": "https",
+  //    "DownstreamHostAndPorts": [
+  //      {
+  //        "Host": "localhost",
+  //        "Port": 7109
+  //      }
+  //    ],
+  //    "UpstreamPathTemplate": "/Login",
+  //    "UpstreamHttpMethod": [ "Post" ]
+  //  },
+  //  {
+  //    "DownstreamPathTemplate": "/Person/Displayall",
+  //    "DownstreamScheme": "https",
+  //    "DownstreamHostAndPorts": [
+  //      {
+  //        "Host": "localhost",
+  //        "Port": 7109
+  //      }
+  //    ],
+  //    "UpstreamPathTemplate": "/Person",
+  //    "UpstreamHttpMethod": [ "Get" ]
+  //  },
+  //  {
+  //    "DownstreamPathTemplate": "/api/PersonAuth",
+  //    "DownstreamScheme": "https",
+  //    "DownstreamHostAndPorts": [
+  //      {
+  //        "Host": "localhost",
+  //        "Port": 7109
+  //      }
+  //    ],
+  //    "UpstreamPathTemplate": "/PersonAuth",
+  //    "UpstreamHttpMethod": [ "Get" ]
+  //  }
+  //],
+  "ReRoutes": [
+    {
+      "DownstreamPathTemplate": "/api/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7109
+        }
+      ],
+      "UpstreamPathTemplate": "/gateway/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ],
+      "Key": "Person, virus, login Routes"
+    },
+    {
+      "DownstreamPathTemplate": "/{everything}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7154
+        }
+      ],
+      "UpstreamPathTemplate": "/gateway/{everything}",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+      "Key": "Weather Routes"
+    }
+  ],
+  "GlobalConfiguration": {
+    "ServiceDiscoveryProvider": {
+      "Host": "localhost",
+      "Port": 8500
+    },
+    "BaseUrl": "https://localhost:5000"
+  }
+}

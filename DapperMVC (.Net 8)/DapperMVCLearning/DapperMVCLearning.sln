@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DapperMVCLearning.UI", "DapperMVCLearning.UI\DapperMVCLearning.UI.csproj", "{1EB8D531-1DA3-479E-AFB1-0403126E3C28}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DapperMVCLearning.Data", "DapperMVCLearning.Data\DapperMVCLearning.Data.csproj", "{53718295-C5BB-4040-98A6-D53EF8528F94}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DapperMVCLearning.AuthenticationService", "DapperMVCLearning.AuthenticationService\DapperMVCLearning.AuthenticationService.csproj", "{836BD344-014E-4AEB-90C4-875C9A6157FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperMVCLearning.VirusScanner", "DapperMVCLearning.VirusScanner\DapperMVCLearning.VirusScanner.csproj", "{42C2DB7F-CC04-4BEB-83B1-03ABDA24AC05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperMVCLearning.WeatherWebApplication", "DapperMVCLearning.WeatherWebApplication\DapperMVCLearning.WeatherWebApplication.csproj", "{4FA13658-D80E-4DF9-9007-37275F9FD4E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperMVCLearning.Ocelot", "DapperMVCLearning.Ocelot\DapperMVCLearning.Ocelot.csproj", "{5BD6F9AC-658B-4A5C-AFEC-46770AD7EDFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EB8D531-1DA3-479E-AFB1-0403126E3C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EB8D531-1DA3-479E-AFB1-0403126E3C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EB8D531-1DA3-479E-AFB1-0403126E3C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EB8D531-1DA3-479E-AFB1-0403126E3C28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53718295-C5BB-4040-98A6-D53EF8528F94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53718295-C5BB-4040-98A6-D53EF8528F94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53718295-C5BB-4040-98A6-D53EF8528F94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53718295-C5BB-4040-98A6-D53EF8528F94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{836BD344-014E-4AEB-90C4-875C9A6157FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{836BD344-014E-4AEB-90C4-875C9A6157FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{836BD344-014E-4AEB-90C4-875C9A6157FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{836BD344-014E-4AEB-90C4-875C9A6157FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42C2DB7F-CC04-4BEB-83B1-03ABDA24AC05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42C2DB7F-CC04-4BEB-83B1-03ABDA24AC05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42C2DB7F-CC04-4BEB-83B1-03ABDA24AC05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42C2DB7F-CC04-4BEB-83B1-03ABDA24AC05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FA13658-D80E-4DF9-9007-37275F9FD4E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FA13658-D80E-4DF9-9007-37275F9FD4E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FA13658-D80E-4DF9-9007-37275F9FD4E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FA13658-D80E-4DF9-9007-37275F9FD4E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BD6F9AC-658B-4A5C-AFEC-46770AD7EDFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BD6F9AC-658B-4A5C-AFEC-46770AD7EDFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BD6F9AC-658B-4A5C-AFEC-46770AD7EDFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BD6F9AC-658B-4A5C-AFEC-46770AD7EDFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0A5DDE6-ED69-47EC-AF5A-46755C57D207}
+	EndGlobalSection
+EndGlobal
